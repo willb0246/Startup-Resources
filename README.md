@@ -49,7 +49,7 @@ If you are considering working at a startup then you need to **understand equity
 *NOTE: I think this is worth the $20 to support them and have the additional UI of the e-Reader* <br>
 
 This is a fantastic and comprehensive guide on understanding competative compensation rates. It also has amazing parts to understand equity and all contributing factors. <br>
-*I dont think someone should join a startup without reading this*
+*I dont think someone should join a startup without reading this.*
 
 ### Index Ventures
 https://www.indexventures.com/rewardingtalent/the-index-ventures-experience <br>

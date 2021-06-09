@@ -5,8 +5,8 @@ I will try to keep the document organized based on which aspect of the jouirney 
 
 ## Finding the right company
 ### The breakout list
-https://breakoutlist.com/
-https://breakoutlist.com/advice/
+https://breakoutlist.com/ <br>
+https://breakoutlist.com/advice/ <br>
 
 The breakout list is a website which creates data and advice from angels, VCs, late stage investors, and CEOs. 
 This is a great resource for advice at all stages, and has has a list of companies which they recommend looking at. 

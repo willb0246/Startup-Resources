@@ -64,5 +64,9 @@ https://venturehacks.com/archives#option-pool <br>
 
 Venture Hacks is a great blog website that skews slighly towards founders, but still has topics that cover tha gambit of what to ask companies before you join, to understanding options and equity.
 
-
+## Other Misc Blog posts:
+http://blog.eladgil.com/2015/03/career-decisions.html <br>
+http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/ <br>
+https://hunterwalk.com/2020/10/31/youll-need-at-least-two-of-these-four-qualifications-to-get-hired-by-a-venture-firm/ <br>
+https://cdixon.org/2009/10/22/the-ideal-startup-career-path <br>
 

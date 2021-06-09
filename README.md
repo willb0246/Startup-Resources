@@ -15,9 +15,7 @@ This is a great resource for advice at all stages, and has has a list of compani
 These companies are curated based on the idea that a person joining a startup should join one that is on a *breakthrough* trajectory - becasue being on a winning team is 
 important in establishing a career.
 
-Breakout comapnies are generally post-series B, which (typically) indicates that they have established PMF and are in a growth stage.
-<br>
-<br>
+Breakout comapnies are generally post-series B, which (typically) indicates that they have established PMF and are in a growth stage.<br>
 
 The advice from Breakoutlist is curated posts from many influential people in the startup / entrepreneurial scene. 
 This advice is generally great and can lead to many rabbit holes of thoughts. 

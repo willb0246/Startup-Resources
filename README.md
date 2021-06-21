@@ -32,6 +32,11 @@ This is a Y-Combinator job board with postings from companies across the YC spec
 <br><br>
 They also have a wide range of different roles, and you can build a profile, search for postings that are relevant for you, and apply all within their portal.
 
+### AngelList
+https://angel.co <br>
+
+AngelList is a general job board for a large amount of startups of all types and stages. There are jobs in all areas from engineering to business development to co-founder roles. The great search functions makes it easy to narrow your search to be specific for vertical, compensation, or role.
+
 ### WealthFront Career Launching Companies
 https://blog.wealthfront.com/career-launching-companies-list/#companies-list <br>
 

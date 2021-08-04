@@ -74,6 +74,8 @@ https://hunterwalk.com/2020/10/31/youll-need-at-least-two-of-these-four-qualific
 https://cdixon.org/2009/10/22/the-ideal-startup-career-path <br>
 https://quip.com/HEB3Ah9dYD6o <br>
 https://visible.vc/blog/startup-ceo-salary/ <br>
+https://go.gusto.com/rs/110-WOX-868/images/An%20Entrepreneur%E2%80%99s%20Guide%20to%20Employee%20Equity.pdf <br>
+https://fi.co/insight/a-guide-to-startup-employee-equity <br>
 
 
 

@@ -72,6 +72,10 @@ http://blog.eladgil.com/2015/03/career-decisions.html <br>
 http://jvns.ca/blog/2015/12/30/do-the-math-on-your-stock-options/ <br>
 https://hunterwalk.com/2020/10/31/youll-need-at-least-two-of-these-four-qualifications-to-get-hired-by-a-venture-firm/ <br>
 https://cdixon.org/2009/10/22/the-ideal-startup-career-path <br>
+https://quip.com/HEB3Ah9dYD6o <br>
+https://visible.vc/blog/startup-ceo-salary/ <br>
+
+
 
 ### And my own personal plug
 https://williamburke.org

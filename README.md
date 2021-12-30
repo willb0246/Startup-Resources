@@ -1,7 +1,7 @@
 # Startup-Resources: This is a list of all of the resources that I have found and a summary of what I found useful in them
 
 This document will serve as a whiteboard for me to keep track of the resources that I find and think are useful. 
-I will try to keep the document organized based on which aspect of the jouirney they address, and give brief summaries of what they contain.
+I will try to keep the document organized based on which aspect of the jouirney they address, and give brief summaries of what they contain. 
 
 ## Finding the right company
 A lot of factors should go into figuring out the correct startup. Here are some resources to figure out what is important and structure your thinking.

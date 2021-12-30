@@ -58,7 +58,7 @@ This is a fantastic and comprehensive guide on understanding competative compens
 https://www.indexventures.com/rewardingtalent/the-index-ventures-experience <br>
 https://www.indexventures.com/optionplan/ <br>
 
-Index ventures has a great site to better understand what a competative compensation is, both through equity and cash. They also have great resources for understanding the details of option grants, equity, dilution and more.
+Index ventures has a great site to better understand what a competative compensation is, both through equity and cash. They also have great resources for understanding the details of option grants, equity, dilution and more. 
 
 ### Venture Hacks
 https://venturehacks.com/archives#compensation <br>

@@ -77,6 +77,8 @@ https://visible.vc/blog/startup-ceo-salary/ <br>
 https://go.gusto.com/rs/110-WOX-868/images/An%20Entrepreneur%E2%80%99s%20Guide%20to%20Employee%20Equity.pdf <br>
 https://fi.co/insight/a-guide-to-startup-employee-equity <br>
 
+https://www.fundingsimulator.com/
+
 
 
 ### And my own personal plug
